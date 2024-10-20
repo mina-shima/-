@@ -2,8 +2,7 @@ import java.util.Scanner;
 
 public class oturi {
     public static void main(String[] args) {
-        int n,x;
-        int oturi;
+        int n,x,oturi;
         int[] maisuu=new int[4];
         Scanner sc = new Scanner(System.in);
         System.out.print("n=");
